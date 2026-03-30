@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://instagram.com/ k__bhargav_reddy)][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaipa-suma-bhargav-reddy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kbhargav770@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaipa-suma-bhargav-reddy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kbhargav770@gmail.com) 
 ## 💻 Technical Skills
 
 ### Frontend
